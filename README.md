@@ -1,1 +1,3 @@
-# python_kodlari
+# Python Kodları
+# Author
+@thezerdust
